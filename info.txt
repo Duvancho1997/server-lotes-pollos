@@ -1,0 +1,22 @@
+
+-registro modulo produccion
+-registro modulo ventas
+-controlador de estado para que se actualice automaticamente al usar 
+	una de las opciones del crud se realiza con unestado llamado cambio que baria entre 
+	false y tru usando useeffect
+- tiene navegacion
+- adicion verificacion de login 
+- paso de parametros id a otros componentes
+- agregar fecha a todos los paginas
+- tabla Produccion_venta edita, crear y consultar
+
+
+		temas integrados
+-Reactstrap
+-bootstrap
+-tablas
+
+
+11/07/2022-- se agrega el filtrado de la tabla principal ,con el cambio del tipo de dato al momento de filtrar
+18/07/2022 --se mejora el interfas de las tablas mortalidad , alimento, gastos produccion y ventas produccion
+

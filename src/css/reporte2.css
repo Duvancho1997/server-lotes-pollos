@@ -1,0 +1,46 @@
+#rep2Combobox {
+        width:260px;
+        padding-left:31px;
+}
+
+#rep2Fondo2{
+        display: flex;
+        width: 100%;
+        padding-left:10px;
+        padding-right:20px;
+}
+
+#rep2Excel{
+        width:260px;
+        padding-left:31px;
+}
+
+#rep2Fondo{
+        width: 100%;
+        padding-left:20px;
+        padding-right:20px;
+}
+
+
+#rep2Graficas {   
+        color: rgb(255, 255, 255);
+        display: flex;
+        width: 100%;
+}
+
+#rep2GraficaGatosVentas {
+        padding-right:20px;
+        padding-left:20px;
+        width:50%;
+}
+
+#rep2Graficas2 {   
+        color: rgb(255, 255, 255);
+        display: flex;
+        width: 100%;
+}
+
+#rep2Mortalidad {
+        padding-left:100px;
+        width: 40%;
+}

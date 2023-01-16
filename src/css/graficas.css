@@ -1,0 +1,20 @@
+#subTitGrafica{
+    height: 45px;
+    padding-left:50px;
+    color: rgb(255, 255, 255);
+    width:100%;
+}
+
+#sel2Grafica{
+    padding-left:10px;
+    width:235px;
+}
+#selGrafica{
+    
+    width:230px;
+}
+
+#fromGrafica{
+    display: flex;
+    width:100%;
+}

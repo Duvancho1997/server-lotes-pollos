@@ -1,0 +1,43 @@
+#tablInicio{
+    padding-left:50px;
+    padding-right:50px;
+}
+
+#fromInicio{
+    display: flex;
+    width:100%;
+}
+
+#optInicio{
+    width:135px;
+}
+
+#selInicio{
+    padding-left:10px;
+    width:185px;
+}
+
+#inpInicio{
+    margin-left: auto;
+    display: flex;
+    width:230px;
+}
+
+#titInicio{
+    height: 45px;
+    padding-left:50px;
+    color: rgb(255, 255, 255);
+    background-color: rgb(45, 121, 244);
+    width:100%;
+}
+
+#subTitInicio{
+    height: 45px;
+    padding-left:50px;
+    color: rgb(255, 255, 255);
+    width:100%;
+}
+
+#dataInicio{
+    border-radius: 15px 15px 0px 0px;
+}

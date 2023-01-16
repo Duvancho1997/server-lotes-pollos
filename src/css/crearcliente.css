@@ -1,0 +1,12 @@
+#fondCrearCliente {
+    height: 100%;
+    border: 5px outset rgb(237, 239, 239); 
+    margin-top: 10%;
+    border-radius: 15px 15px 15px 10px;
+    background-color: rgb(237, 239, 239);
+    padding-top:10px;
+    padding-bottom:10px;
+    padding-left:10px;
+    padding-right:10px;
+    width:140%;
+    } 
