@@ -2,7 +2,7 @@
   "name": "consumirapi",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http://Duvancho1997.github.io/react-server",
+  "homepage": "react-server",
   "dependencies": {
     "@emailjs/browser": "^3.6.2",
     "@ibrahimrahmani/react-export-excel": "^1.0.2",
